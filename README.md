@@ -15,5 +15,16 @@ This is especially useful for Minecraft mobs / entity animation, but it works fo
 - Custom texture rotation is visual only; movement direction stays consistent.
 - Presets are stored locally (Blockbench localStorage) and are scoped so different projects/animations don’t overwrite each other.
 
+## How to import it to your blockbench
+
+Go to File -> Plugins -> Load Plugin from File 
+
+Then Paste this 
+```https://raw.githubusercontent.com/cazfps/Animated-Platforms/refs/heads/main/animated_platforms.js```
+
+
+<img width="671" height="561" alt="image" src="https://github.com/user-attachments/assets/5631c64f-1a3a-4b0a-8f09-9a7e5b5d972f" />
+
+  
 ## Author
 Cazfps
