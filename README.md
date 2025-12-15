@@ -4,6 +4,8 @@ An animated ground plane for Blockbench to preview motion (walk cycles, vehicles
 
 This is especially useful for Minecraft mobs / entity animation, but it works for any animation workflow.
 
+![ogre_platform_demo](https://github.com/user-attachments/assets/108121ed-9c42-4cda-b6a7-bdcb51d64c42)
+
 ## Features
 - Scroll speed in blocks/sec (with quick presets)
 - Size/placement controls (width/length/height, rotation)
